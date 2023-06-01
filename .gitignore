@@ -1,5 +1,0 @@
-.aws/
-.terraform/
-*.tfstate*
-.terraform.lock.hcl
-variables.tf
